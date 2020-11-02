@@ -1,4 +1,4 @@
-# CVRP-Solving-the-cvrp-problem-using-simulated-annealing-algorithm
+# CVRP-Simulated-Annealing-Algorithm
 使用模拟退火算法求解经典CVRP问题
 
 问题描述：
